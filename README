@@ -7,3 +7,10 @@ Requirements - Opencart versions 1.5.x
 This extension is written for default installations, but as no core files are overwritten it can be trialled on any site running vQmod with a very low risk of causing problems. If the extension does not work as expected, then simply remove the xml file from your vqmod/xml folder and clear the vqmod/vqcache folder to return to your previous installation.
 
 As with every extension/modification, however, it is good practice to ensure you have a current backup of your files and folders BEFORE making any changes.
+
+
+SUPPORT
+=======
+For support, please email: support@webvetservices.com
+
+Alternatively, visit www.opencart.com/index.php?route=extension/extension/info&extension_id=4498 and post a comment there.
